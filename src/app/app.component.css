@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+
+.done{
+    text-decoration: line-through;
+}
+
+.del {
+    height: 35px;
+    padding-top: 3px;
+    margin-top: 3px;
+    margin-right: 5px;
+    
+}
+
+.tab {
+    background-color: #B8B5FF;
+    box-shadow: 1px 3px 5px;
+    
+}
+
+.outer-body{
+    width: 25rem;
+}
+
+.name-list{
+    margin-right: 0;
+    width: 20rem;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
